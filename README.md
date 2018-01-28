@@ -10,3 +10,7 @@ You will need an installation of Python, plus the following libraries:
 * numpy
 * matplotlib
 * csv
+
+## Link to the Project Report
+
+[Invesitgate a Dataset](https://anmolmann.github.io/Investigate-a-Dataset/)
